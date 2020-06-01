@@ -7,7 +7,7 @@ Randomly select values from a given range avoiding duplicates.
 A RandomSelector can be constructed in 2 ways. The first way is by specifying 
 the number of values to choose from. So, as the test code shows, if 9 values is 
 required, then integer values from 1 to 9 are available and can be randomly 
-selected using the get() method. The second method is to provide the contructor 
+selected using the get() method. The second method is to provide the constructor 
 with an array of integers, from which values will be selected.
 
 ## Test Code Output
